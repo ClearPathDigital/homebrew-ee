@@ -5,8 +5,6 @@ class Ee < Formula
   sha256 "6ee6cda46ce7949176149637326332eedcf53e03d5e7fcd58759e5b173ef8fe4"
 
   def install
-    system "make", "localmake"
-    system "make", "all"
 
     # Install manually
     bin.install "ee"
