@@ -7,8 +7,8 @@ class Ee < Formula
   def install
 
     # Install manually
-    bin.install "ee"
-    man1.install "ee.1"
+    bin.install "ee/1.4.6/bin/ee"
+    man1.install "ee/1.4.6/share/man1/ee.1"
   end
 
   test do
