@@ -1,7 +1,7 @@
 # homebrew-ee
-A homebrew tap for the simple FreeBSD-style editor, ee, on OSX.
+A [Homebrew](https://brew.sh/) tap for the simple FreeBSD-style editor, ee, on OSX.
 
-## Reuirements
+## Requirements
 
 [Homebrew for OSX](https://brew.sh/)
 
