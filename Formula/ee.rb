@@ -1,7 +1,7 @@
 class Ee < Formula
   desc "Terminal (curses-based) text editor with pop-up menus"
-  homepage "http://www.users.qwest.net/~hmahon/"
-  url "http://www.users.qwest.net/~hmahon/sources/ee-1.4.6.src.tgz"
+  homepage "https://github.com/ClearPathDigital/homebrew-ee"
+  url "https://github.com/ClearPathDigital/homebrew-ee/raw/master/Source/ee-1.4.6.sierra.bottle.tar.gz"
   sha256 "6ee6cda46ce7949176149637326332eedcf53e03d5e7fcd58759e5b173ef8fe4"
 
   def install
