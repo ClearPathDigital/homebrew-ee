@@ -6,6 +6,8 @@ class Ee < Formula
 
   def install
 
+    system "pwd"
+
     # Install manually
     bin.install "ee/1.4.6/bin/ee"
     man1.install "ee/1.4.6/share/man1/ee.1"
