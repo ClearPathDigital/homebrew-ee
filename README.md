@@ -7,7 +7,7 @@ A [Homebrew](https://brew.sh/) tap for the simple FreeBSD-style editor, ee, a.k.
 
 ## Install 
 
-To install this tape, simply run:
+To install this tap, simply run:
 
     brew install clearpathdigital/homebrew-ee/ee
 
